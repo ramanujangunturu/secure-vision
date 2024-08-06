@@ -14,14 +14,5 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maskboyAvi/Guardian-Vision.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/maskboyAvi/Guardian-Vision/issues"
-  },
-  "homepage": "https://github.com/maskboyAvi/Guardian-Vision#readme",
   "devDependencies": {}
 }
